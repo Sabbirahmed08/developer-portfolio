@@ -109,6 +109,9 @@ h3 {
 
 .experience-section {
     margin-top: 150px;
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
 }
 
 .experience-section h1 {
